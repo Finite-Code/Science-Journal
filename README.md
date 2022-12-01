@@ -1,4 +1,4 @@
 # Science Journal
 
 ## Coming Soon!
-## Releasing on 1 December 2022! #Stay_Tuned
+## Releasing on 1 January 2023! #Stay_Tuned
