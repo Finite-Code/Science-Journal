@@ -10,7 +10,7 @@ you the latest news and developments in the world of science.
 | 1           | [Introduction](#Introduction)  |
 | 2           | [About](#About)                |
 | 3           | [Contributions](#Contributions)|
-| 4           | [Contact Us](#Contact Us)      |
+| 4           | [Contact Us](#ContactUs)      |
 | 5           | [FootNotes](#FootNotes)
 
 ## Introduction
