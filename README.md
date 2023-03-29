@@ -2,7 +2,7 @@
 Welcome to the Science Journal, a science and space blog website that aims to bring 
 you the latest news and developments in the world of science.
 
-## 2 Days To Go!
+## Few More Days To Go!
 
 ## Table of Contents
 | Sr. No.     | Heading                        |
